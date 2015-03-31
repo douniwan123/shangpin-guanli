@@ -8,6 +8,7 @@ import java.util.*;
  * 
  * @author asus-pc 使用MySQL数据库，数据库名叫root，密码时123qwe
  *         刚接触数据库，之前没学过，所以一部分代码是从网上复制粘贴的，希望别介意
+ *         需要自行导入MySQL包
  */
 public class Login extends JFrame {
 	private Connection connection;
